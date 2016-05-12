@@ -1,1 +1,1 @@
-cat '猫' cat.txt | grep | wc
+cat '猫' cat.txt | wc
